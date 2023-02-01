@@ -12,9 +12,6 @@ keeps the code simple
 def print_something():
     print("Something has been printed")
  ```
-def - define something links what ever is indented underneath to the variable, have to print the function variable to get back the code.
-
-naming arguments is extremely important 
 
 ### Return statement 
 ```python
