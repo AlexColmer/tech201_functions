@@ -58,4 +58,4 @@ greeting("Alex")
 # best practices
 # name functions clearly using lower case and underscores
 # All arguments should be clear in their need and were possible include there expected type
-# remember the return statement or functiosn will return none
+# remember the return statement or function will return none
